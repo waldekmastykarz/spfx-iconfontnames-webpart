@@ -1,0 +1,18 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "e71c23c5-4ddb-40b6-9e52-d292a4d8300b",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "e71c23c5-4ddb-40b6-9e52-d292a4d8300b",
+    "group": { "default": "Default" },
+    "title": { "default": "Icon Font Names" },
+    "description": { "default": "Shows icons supported by SharePoint Framework Web Parts" },
+    "officeFabricIconFontName": "Font",
+    "properties": {
+    }
+  }]
+}

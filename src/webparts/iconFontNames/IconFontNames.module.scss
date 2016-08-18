@@ -1,0 +1,24 @@
+.helloWorld {
+  .container {
+    max-width: 700px;
+    margin: 0px auto;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  li {
+    list-style: none;
+    float: left;
+    width: 6em;
+    height: 7em;
+    margin: 0.5em;
+    text-align: center;
+  }
+
+  .iconWrapper span.icon {
+    font-family: sp-MDL2;
+  }
+
+  .name {
+    font-family: 'Segoe UI Regular WestEuropean', 'Segoe UI', Tahoma, Arial, sans-serif;
+  }
+}

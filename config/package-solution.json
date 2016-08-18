@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-iconfontnames-webpart-client-side-solution",
+    "id": "4f4a5e20-c865-424b-86d6-291ef49cc606",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "spfx-iconfontnames-webpart.spapp"
+  }
+}
